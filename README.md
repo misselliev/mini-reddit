@@ -2,10 +2,6 @@
 
 Building a mini version of Reddit with Ruby on Rails, using postgresql as database.
 
-## Live
-
-You can look at our deployment [here] () //to be updated
-
 ## Developers Team
 
  - [Santiago Torres](https://github.com/stiakov)
