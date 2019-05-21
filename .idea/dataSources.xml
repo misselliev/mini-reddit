@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails mini-reddit: test" uuid="891238ce-2b83-4548-855a-2d72fe4b6de8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/mini-reddit_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails mini-reddit: development" uuid="c6637769-ad92-4fe4-8e02-929f1c4e9267">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/mini-reddit_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails mini-reddit: production" uuid="e393a9f3-3f4a-448f-a74b-9c3a5cf3c5d4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/mini-reddit_production</jdbc-url>
+    </data-source>
+  </component>
+</project>
